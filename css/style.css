@@ -1,0 +1,152 @@
+/*******************************************
+Resets
+*******************************************/
+
+/* CSS Mini Reset */
+
+html, body, div, form, fieldset, legend, label {
+	margin: 0;
+	padding: 0;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+th, td {
+	text-align: left;
+	vertical-align: top;
+}
+
+h1, h2, h3, h4, h5, h6, th, td, caption {
+	font-weight: normal;
+}
+
+img {
+	border: 0;
+}
+
+/*******************************************
+General Styles
+*******************************************/
+
+body {
+    font-size: 1em;
+}
+
+.wrapper-content {
+	margin: 50px auto;
+	max-width: 650px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+h1,
+.shiftcase-menubar,
+.btn-download {
+  font-family: sans-serif;
+}
+
+h1 {
+	color: #0B8FF8;
+	font-size: 4em;
+	font-weight: bold;
+}
+
+p {
+	color: #51545E;
+	font-family: serif;
+	font-size: 1.25em;
+	line-height: 1.5;
+}
+
+.align-center {text-align: center;}
+
+.btn-download {
+	background-image: linear-gradient(to right, #00A8FF , #1771EF);
+	border-radius: 100px;
+	color: #fff;
+	font-weight: bold;
+	padding: 13px 40px 10px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+.btn-download:hover {
+  transform: translate(0px, -10px);
+}
+
+/*******************************************
+Landing Page Styles
+*******************************************/
+
+.nav-main {
+	padding: 30px;
+}
+
+#logo {
+	height: 25px;
+	width: auto;
+}
+
+.shiftcase-menubar {
+	background-color: black;
+	border-radius: 10px;
+	box-shadow: 0 5px 30px rgba(0,0,0,.25);
+	display: inline-block;
+	padding: 10px 5px;
+	margin-top: 25px;
+	margin-bottom: 50px;
+	position: relative;
+}
+
+.shiftcase-menubar:before {
+	content: "";
+	position: absolute;
+	bottom: 100%;
+	left: 46%;
+	width: 0;
+	height: 0;
+	border-bottom: 15px solid black;
+	border-right: 15px solid transparent;
+	border-left: 15px solid transparent;
+}
+
+ul.shiftcase-menubar_btn {
+	list-style: none;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+ul.shiftcase-menubar_btn li {
+	display: inline-block;
+	font-size: 1em;
+	width: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+ul.shiftcase-menubar_btn li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+ul.shiftcase-menubar_btn li a:hover {
+	color: #00A8FF;
+}
+
+/* Responsive */
+
+@media screen and (max-width:550px) {
+
+ul.shiftcase-menubar_btn li {
+		display: inline-block;
+		font-size: 1em;
+		width: 100%;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+}
