@@ -12,3 +12,4 @@ Todo:
 - [ ] Add version under button
 - [ ] Clean up code
 - [ ] Turn on github pages
+- [ ] Add URL to READ ME
