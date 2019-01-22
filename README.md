@@ -6,7 +6,7 @@ Todo:
 
 - [x] Start page development
 - [x] Add version under button
-- [ ] Download button animation
+- [x] Download button animation
 - [ ] Loading animations
 - [ ] Add functionality to ShiftCase menu
 - [ ] Add app for download
