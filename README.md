@@ -5,11 +5,11 @@ ShiftCase is a Mac menubar app that removes formatting from rich text and allows
 Todo: 
 
 - [x] Start page development
+- [x] Add version under button
 - [ ] Download button animation
 - [ ] Loading animations
 - [ ] Add functionality to ShiftCase menu
 - [ ] Add app for download
-- [x] Add version under button
 - [ ] Clean up code
 - [ ] Turn on github pages
 - [ ] Add URL to READ ME
