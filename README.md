@@ -9,7 +9,7 @@ Todo:
 - [ ] Loading animations
 - [ ] Add functionality to ShiftCase menu
 - [ ] Add app for download
-- [ ] Add version under button
+- [x] Add version under button
 - [ ] Clean up code
 - [ ] Turn on github pages
 - [ ] Add URL to READ ME
