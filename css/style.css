@@ -149,6 +149,10 @@ ul.shiftcase-menubar_btn li a:hover {
 	color: #00A8FF;
 }
 
+ul.shiftcase-menubar_btn .btn {
+	cursor: pointer;
+}
+
 /* Responsive */
 
 @media screen and (max-width:550px) {
