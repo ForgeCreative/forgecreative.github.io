@@ -7,8 +7,8 @@ Todo:
 - [x] Start page development
 - [x] Add version under button
 - [x] Download button animation
-- [ ] Loading animations
-- [ ] Add functionality to ShiftCase menu
+- [x] FadeIn animations
+- [x] Add functionality to ShiftCase menu
 - [ ] Add app for download
 - [ ] Clean up code
 - [ ] Turn on github pages
