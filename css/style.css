@@ -32,32 +32,26 @@ General Styles
 *******************************************/
 
 body {
-    font-size: 1em;
+	font-size: 1em;
+	font-family: sans-serif;
 }
 
 .wrapper-content {
 	margin: 50px auto;
-	max-width: 650px;
+	max-width: 675px;
 	padding-left: 30px;
 	padding-right: 30px;
-}
-
-h1,
-.shiftcase-menubar,
-.btn-download,
-.btn-video {
-  font-family: sans-serif;
 }
 
 h1 {
 	color: #0B8FF8;
 	font-size: 4em;
 	font-weight: bold;
+	margin-bottom: 35px;
 }
 
 p {
 	color: #51545E;
-	font-family: serif;
 	font-size: 1.25em;
 	line-height: 1.5;
 }
