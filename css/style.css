@@ -96,6 +96,40 @@ p {
 
 .btn-video:hover {color: #196cea;}
 
+
+/*******************************************
+Index
+*******************************************/
+
+.content-wrapper {
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px;
+}
+
+.bckg-black {
+	background-color: black;
+	color: white !important;
+}
+
+.bckg-white {background-color: white;}
+
+a.btn-text-white {color: white;}
+a.btn-text-white:hover {color: #00A8FF;}
+
+a.btn-text-shiftcase {
+	color: #00A8FF;
+	font-size: 50px;
+	font-weight: bold;
+	transition: .25s ease all;
+	text-decoration: none;
+}
+a.btn-text-shiftcase:hover {color: #006DE1;}
+
+
+.text--white {color: #fff;}
+
 /*******************************************
 Landing Page Styles
 *******************************************/
