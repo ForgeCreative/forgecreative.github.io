@@ -1,10 +1,3 @@
 # Forge Creative Website
-Creating Forge website via Github Pages to show Forge projects.
 
-### Todo list
-- [x] Homepage
-- [x] Privacy Policy
-- [x] ShiftCase
-  - [ ] Add Mac Appstore url
-- [ ] Repoint Domain
-- [ ] Clean up code
+Collin Bigart and Mario Díez started Forge Creative as a way to work on side projects together. Follow our progress on Twitter and Github. Interested in working together? Contact Us.
