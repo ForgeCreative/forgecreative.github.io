@@ -31,6 +31,9 @@ img {
 General Styles
 *******************************************/
 
+.display-none {display: none !important;}
+.coming-soon {color: #0B8FF8; font-size: 16px; font-weight: bold; text-transform: uppercase;}
+
 body {
 	font-size: 1em;
 	font-family: sans-serif;
@@ -48,7 +51,10 @@ h1 {
 	font-size: 4em;
 	font-weight: bold;
 	margin-bottom: 35px;
+<<<<<<< HEAD
+=======
 	letter-spacing: 1px;
+>>>>>>> d4fe4178f16017ed1ec818806a8cc3578dfca4bb
 }
 
 h2 {letter-spacing: 1px;}
