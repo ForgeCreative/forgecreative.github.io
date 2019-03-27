@@ -292,6 +292,7 @@ ul.shiftcase-menubar_btn .btn {
 	text-align: center;
 	margin-left: 10px;
 	margin-right: 10px;
+	margin-bottom: 10px;
 }
 .btn-poduct-hunt {
  margin-left: 10px;
@@ -318,10 +319,6 @@ Responsive
 	#logo-forge {
 		height: 75px;
 	}
-		div.btn-poduct-hunt {
- 		margin-top: 15px;
-		margin-right: 1px;
-}
 }
 @media screen and (max-width: 375px) {
 	#logo-forge {
