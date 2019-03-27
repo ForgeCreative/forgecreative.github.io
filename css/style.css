@@ -318,6 +318,10 @@ Responsive
 	#logo-forge {
 		height: 75px;
 	}
+	.btn-poduct-hunt {
+ 		margin-top: 15px;
+		margin-right: 1px;
+}
 }
 @media screen and (max-width: 375px) {
 	#logo-forge {
